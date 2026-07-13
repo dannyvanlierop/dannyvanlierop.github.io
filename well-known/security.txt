@@ -1,0 +1,4 @@
+Contact: mailto:security@dannyvanlierop.nl
+Expires: 2036-07-13T18:54:00Z
+Hiring: https://dannyvanlierop.nl/.well-known/security.txt
+Preferred-Languages: en, nl
